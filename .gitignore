@@ -1,2 +1,4 @@
 
 .DS_Store
+scala/target/
+scala/project/target/
