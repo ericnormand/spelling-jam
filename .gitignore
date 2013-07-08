@@ -19,3 +19,5 @@ project/plugins/lib_managed/
 project/build/target/
 out/
 logs/
+scala/target/
+scala/project/target/
